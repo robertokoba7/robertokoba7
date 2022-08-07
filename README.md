@@ -4,7 +4,7 @@
 </h1>
 
 <div id="badges">
-  <a href="www.linkedin.com/in/robertokoba7">
+  <a href="https://www.linkedin.com/in/Robert Okoba-566189214/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://mail.google.com/mail/u/0/?fs=1&to=robertokoba7@gmail.com&tf=cm">
