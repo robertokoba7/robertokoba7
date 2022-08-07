@@ -7,7 +7,7 @@
   <a href="www.linkedin.com/in/robertokoba7">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://mail.google.com/mail/u/0/?fs=1&to=robertokoba7@gmail.com&tf=cm>
+  <a href="mailto:https://mail.google.com/mail/u/0/?fs=1&to=robertokoba7@gmail.com&tf=cm">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://twitter.com/CologneHavanova">
